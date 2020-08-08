@@ -1,6 +1,8 @@
+/Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/config/LoggingAspectConfiguration.java
 /Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/web/vm/ErrorCode.java
 /Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/persistence/domain/Example.java
 /Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/persistence/repository/ExampleRepository.java
+/Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/logging/LoggingAspect.java
 /Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/service/mapper/ExampleMapper.java
 /Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/exceptions/RoleNotFoundException.java
 /Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/security/jwt/JwtAuthTokenFilter.java
@@ -24,6 +26,7 @@
 /Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/service/dto/RegisterUserRequest.java
 /Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/web/controller/ExampleController.java
 /Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/service/impl/UserServiceImpl.java
+/Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/config/ProfileConstants.java
 /Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/service/ExampleService.java
 /Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/exceptions/UserAlreadyExistsException.java
 /Users/vojinpesalj/Documents/spring-boot-starter-app/src/main/java/com/vojinp/starterapp/service/impl/UserDetailsServiceImpl.java
